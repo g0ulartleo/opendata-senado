@@ -1,1 +1,1 @@
-from .senator import Senator
+from .parliamentarians import Senator
