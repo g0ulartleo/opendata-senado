@@ -1,7 +1,6 @@
 # README - opensenate #
 
-Community garden web service - API that serves Community Garden APP.
-
+Client for manipulating Brazilian federal senate open data.
 
 ### Install ###
 
