@@ -1,1 +1,1 @@
-from .parliamentarians import Senator
+from .parliamentarians import SenatorClient

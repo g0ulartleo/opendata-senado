@@ -1,1 +1,1 @@
-from .senator import Senator
+from .senator import SenatorClient
